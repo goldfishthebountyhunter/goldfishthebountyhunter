@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
 <!--
 **goldfishthebountyhunter/goldfishthebountyhunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
