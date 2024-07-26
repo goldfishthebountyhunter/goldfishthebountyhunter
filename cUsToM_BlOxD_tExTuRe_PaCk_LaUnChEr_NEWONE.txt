@@ -1,5 +1,5 @@
 {
- "blockAtlas": "https://i.imgur.com/E25ogx6.png",
+ "blockAtlas": "https://iili.io/JjwMURp.png",
      "skyBoxes": {
   "default": {
    "type": "earth",
