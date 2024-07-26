@@ -1,1 +1,51 @@
 
+{
+	"blockAtlas": "https://i.imgur.com/vC4y5Qo.png",
+	"skyBoxes": {
+		"default": {
+			"type": "earth",
+			 "nx": "https://i.imgur.com/ANHIiSv.png",
+       "ny": "https://i.imgur.com/02j9iio.png",
+       "nz": "https://i.imgur.com/ibwqi40.png",
+       "px": "https://i.imgur.com/j3VPZRG.png",
+       "py": "https://i.imgur.com/rt2AaKe.png",
+       "pz": "https://i.imgur.com/NVPL5sU.png"
+		},
+		"interstellar": {
+			"type": "custom",
+			"nx": "textures/skyBoxes/interstellar/_nx.jpg",
+			"ny": "textures/skyBoxes/interstellar/_ny.jpg",
+			"nz": "textures/skyBoxes/interstellar/_nz.jpg",
+			"px": "textures/skyBoxes/interstellar/_px.jpg",
+			"py": "textures/skyBoxes/interstellar/_py.jpg",
+			"pz": "textures/skyBoxes/interstellar/_pz.jpg"
+		},
+		"space_blue": {
+			"type": "custom",
+			"nx": "textures/skyBoxes/space_blue/_nx.jpg",
+			"ny": "textures/skyBoxes/space_blue/_ny.jpg",
+			"nz": "textures/skyBoxes/space_blue/_nz.jpg",
+			"px": "textures/skyBoxes/space_blue/_px.jpg",
+			"py": "textures/skyBoxes/space_blue/_py.jpg",
+			"pz": "textures/skyBoxes/space_blue/_pz.jpg"
+		},
+		"space_lightblue": {
+			"type": "custom",
+			"nx": "textures/skyBoxes/space_lightblue/_nx.jpg",
+			"ny": "textures/skyBoxes/space_lightblue/_ny.jpg",
+			"nz": "textures/skyBoxes/space_lightblue/_nz.jpg",
+			"px": "textures/skyBoxes/space_lightblue/_px.jpg",
+			"py": "textures/skyBoxes/space_lightblue/_py.jpg",
+			"pz": "textures/skyBoxes/space_lightblue/_pz.jpg"
+		},
+		"space_red": {
+			"type": "custom",
+			"nx": "textures/skyBoxes/space_red/_nx.jpg",
+			"ny": "textures/skyBoxes/space_red/_ny.jpg",
+			"nz": "textures/skyBoxes/space_red/_nz.jpg",
+			"px": "textures/skyBoxes/space_red/_px.jpg",
+			"py": "textures/skyBoxes/space_red/_py.jpg",
+			"pz": "textures/skyBoxes/space_red/_pz.jpg"
+		}
+	}
+}
