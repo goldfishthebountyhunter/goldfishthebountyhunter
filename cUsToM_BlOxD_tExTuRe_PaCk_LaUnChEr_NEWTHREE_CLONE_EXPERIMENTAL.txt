@@ -9,11 +9,11 @@ skybox-generator-vercel[dot]app
 		"default": {
 			"type": "earth",
 			 "nx": "https://i.imgur.com/ANHIiSv.png",
-       "ny": "https://i.imgur.com/02j9iio.png",
-       "nz": "https://i.imgur.com/ibwqi40.png",
-       "px": "https://i.imgur.com/j3VPZRG.png",
-       "py": "https://i.imgur.com/rt2AaKe.png",
-       "pz": "https://i.imgur.com/NVPL5sU.png"
+                         "ny": "https://i.imgur.com/02j9iio.png",
+                         "nz": "https://i.imgur.com/ibwqi40.png",
+                         "px": "https://i.imgur.com/j3VPZRG.png",
+                         "py": "https://i.imgur.com/rt2AaKe.png",
+                         "pz": "https://i.imgur.com/NVPL5sU.png"
 		},
 		"interstellar": {
 			"type": "custom",
@@ -53,3 +53,37 @@ skybox-generator-vercel[dot]app
 		}
 	}
 }
+
+
+
+## OTHER START ##
+## OTHER START ##
+## OTHER START ##
+
+{
+    "blockAtlas": "https://i.imgur.com/mrIWRLi.png",
+
+    "skyBoxes": {
+        "default": {
+            "type": "custom",
+            "nx": "https://i.imgur.com/GqsnMkX.png",
+
+            "ny": "https://i.imgur.com/SttFVVR.png",
+
+            "nz": "https://i.imgur.com/Z115gDs.png",
+
+            "px": "https://i.imgur.com/rtctGEc.png",
+
+            "py": "https://i.imgur.com/MYflITz.png",
+
+            "pz": "https://i.imgur.com/KXUfQtz.png"
+
+        }
+    }
+}
+
+## OTHER END ##
+## OTHER END ##
+## OTHER END ##
+
+
