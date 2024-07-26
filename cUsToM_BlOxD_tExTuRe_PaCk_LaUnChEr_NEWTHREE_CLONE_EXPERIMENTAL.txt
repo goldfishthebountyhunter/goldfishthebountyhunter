@@ -1,6 +1,7 @@
 
-
-skybox-generator-vercel[dot]app
+<!-- THIS DOCUMENT IS JSON -->
+<!-- skybox-generator-vercel[dot]appn -->
+<!-- Original Texture MAP: i.imgur.com/ZZD1BK0.png -->
 
 
 {
