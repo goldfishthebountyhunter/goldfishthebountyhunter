@@ -1,4 +1,8 @@
 
+
+skybox-generator-vercel[dot]app
+
+
 {
 	"blockAtlas": "https://i.imgur.com/vC4y5Qo.png",
 	"skyBoxes": {
