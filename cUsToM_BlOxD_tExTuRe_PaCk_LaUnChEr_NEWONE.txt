@@ -1,10 +1,9 @@
-Subscribe Texture Pack
 {
  "blockAtlas": "https://i.imgur.com/E25ogx6.png",
      "skyBoxes": {
   "default": {
-   "type": "custom",
-            "nx": "textures/skyBoxes/interstellar/_nx.jpg",
+   "type": "earth",
+   "nx": "textures/skyBoxes/interstellar/_nx.jpg",
    "ny": "textures/skyBoxes/interstellar/_ny.jpg",
    "nz": "textures/skyBoxes/interstellar/_nz.jpg",
    "px": "https://i.imgur.com/PAstZSQ.png",
