@@ -1,0 +1,21 @@
+{
+    "blockAtlas": "",
+
+    "skyBoxes": {
+        "default": {
+            "type": "custom",
+            "nx": "",
+
+            "ny": "",
+
+            "nz": "",
+
+            "px": "",
+
+            "py": "",
+
+            "pz": ""
+
+        }
+    }
+}
