@@ -1,11 +1,10 @@
 
 <!-- THIS DOCUMENT IS JSON -->
 <!-- skybox-generator-vercel[dot]appn -->
-<!-- Original Texture MAP: i.imgur.com/ZZD1BK0.png -->
-
+<!-- Original Texture MAP: i.imgur.com/ZZD1BK0.png / i.imgur.com/vC4y5Qo.png / i.imgur.com/mrIWRLi.png -->
 
 {
-	"blockAtlas": "https://i.imgur.com/vC4y5Qo.png",
+	"blockAtlas": "https://iili.io/JjwMgON.png",
 	"skyBoxes": {
 		"default": {
 			"type": "earth",
@@ -62,7 +61,7 @@
 ## OTHER START ##
 
 {
-    "blockAtlas": "https://i.imgur.com/mrIWRLi.png",
+    "blockAtlas": "https://iili.io/H8DQcBt.png",
 
     "skyBoxes": {
         "default": {
