@@ -1,40 +1,19 @@
+# SYNTAX
+
 {
-    "blockAtlas": "https://iili.io/JUyy6tp.png",
-    "blockAtlas": "https://iili.io/H8DQcBt.png",
+    "blockAtlas": "PASTE TEXTURE PACK",
     "skyBoxes": {
         "default": {
             "type": "custom",
-            "NX SkyboxBk — The back square of the skybox.": "",
-
-            "NY SkyboxDn — The down square of the skybox.": "",
-
-            "NZ SkyboxFt — The front square of the skybox.": "",
-
-            "PX SkyboxLf — The left square of the skybox.": "",
-
-            "PY SkyboxRt — The right square of the skybox.": "",
-
-            "PZ SkyboxUp — The up square of the skybox.": ""
-
+            "nxNX": "PASTE SKYBOX / BOTTOM LEFT",
+            "nyNY": "PASTE SKYBOX / TOP LEFT",
+            "nzNZ": "PASTE SKYBOX / TOP RIGHT",
+            "pxPX": "PASTE SKYBOX / BOTTOM RIGHT",
+            "pyPY": "PASTE SKYBOX / TOP MIDDLE",
+            "pzPZ": "PASTE SKYBOX / BOTTOM MIDDLE"
         }
     }
 }
-
-# SYNTAX
-#{
-# "blockAtlas": "PASTE TEXTURE PACK",
-# "skyBoxes": {
-#  "default": {
-#   "type": "custom",
-#   "nx": "PASTE IMAGE",
-#   "ny": "PASTE IMAGE",
-#   "nz": "PASTE IMAGE",
-#   "px": "PASTE IMAGE",
-#   "py": "PASTE IMAGE",
-#   "pz": "PASTE IMAGE"
-#  }
-# }
-#}
 
 # EDITOR
 # www.piskelapp[dot]com/p/create/sprite
