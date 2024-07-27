@@ -4,18 +4,23 @@
     "skyBoxes": {
         "default": {
             "type": "custom",
-            "nx": "",
+            "NX SkyboxBk — The back square of the skybox.": "",
 
-            "ny": "",
+            "NY SkyboxDn — The down square of the skybox.": "",
 
-            "nz": "",
+            "NZ SkyboxFt — The front square of the skybox.": "",
 
-            "px": "",
+            "PX SkyboxLf — The left square of the skybox.": "",
 
-            "py": "",
+            "PY SkyboxRt — The right square of the skybox.": "",
 
-            "pz": ""
+            "PZ SkyboxUp — The up square of the skybox.": ""
 
         }
     }
 }
+
+
+
+
+
