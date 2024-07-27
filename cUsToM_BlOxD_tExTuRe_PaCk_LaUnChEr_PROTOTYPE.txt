@@ -20,7 +20,21 @@
     }
 }
 
-
+# SYNTAX
+#{
+# "blockAtlas": "PASTE TEXTURE PACK",
+# "skyBoxes": {
+#  "default": {
+#   "type": "custom",
+#   "nx": "PASTE IMAGE",
+#   "ny": "PASTE IMAGE",
+#   "nz": "PASTE IMAGE",
+#   "px": "PASTE IMAGE",
+#   "py": "PASTE IMAGE",
+#   "pz": "PASTE IMAGE"
+#  }
+# }
+#}
 
 
 
