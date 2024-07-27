@@ -54,11 +54,7 @@
 	}
 }
 
-
-
-## OTHER START ##
-## OTHER START ##
-## OTHER START ##
+## OTHER START 42x42 ##
 
 {
     "blockAtlas": "https://iili.io/H8DQcBt.png",
@@ -82,8 +78,6 @@
     }
 }
 
-## OTHER END ##
-## OTHER END ##
-## OTHER END ##
+## OTHER END 42x42 ##
 
 
