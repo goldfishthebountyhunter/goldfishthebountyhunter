@@ -36,5 +36,8 @@
 # }
 #}
 
+# EDITOR
+# www.piskelapp[dot]com/p/create/sprite
+
 
 
