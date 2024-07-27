@@ -8,7 +8,7 @@
    "nz": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/49b71e75658023819bf56b4858613edc7927a4bc/NZ_goldfishthebountyhunter.png",
    "px": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/49b71e75658023819bf56b4858613edc7927a4bc/PX_goldfishthebountyhunter.png",
    "py": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/49b71e75658023819bf56b4858613edc7927a4bc/PY_goldfishthebountyhunter.png",
-   "pz": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/49b71e75658023819bf56b4858613edc7927a4bc/PZ_goldfishthebountyhunter.png"
+   "pz": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/49b71e75658023819bf56b4858613edc7927a4bc/PZ_goldfishthebountyhunter.png",
   }
  }
 }
