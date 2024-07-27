@@ -1,5 +1,5 @@
 {
-    "blockAtlas": "",
+    "blockAtlas": "https://iili.io/JUyy6tp.png",
 
     "skyBoxes": {
         "default": {
