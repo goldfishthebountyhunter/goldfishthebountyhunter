@@ -34,8 +34,7 @@
   "comment": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/1d236e78977edef0f7fd0e23805675bd6c969b52/goldfishthebountyhunter_bloxd_textures_collection/8x2720_barebones1%20-%20Imgur.png",
   "comment": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/1d236e78977edef0f7fd0e23805675bd6c969b52/goldfishthebountyhunter_bloxd_textures_collection/8x2720_barebones2%20-%20Imgur.png",
   "comment": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/1d236e78977edef0f7fd0e23805675bd6c969b52/goldfishthebountyhunter_bloxd_textures_collection/8x2720_dqeQ0ox.png",
-  "comment": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/1d236e78977edef0f7fd0e23805675bd6c969b52/goldfishthebountyhunter_bloxd_textures_collection/undefined%20-%20Imgur.png",
-  "blockAtlas": "URL Something...",
+  "blockAtlas": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/1d236e78977edef0f7fd0e23805675bd6c969b52/goldfishthebountyhunter_bloxd_textures_collection/undefined%20-%20Imgur.png",
   "skyBoxes": {
   "default": {
    "type": "EARTH",
