@@ -1,6 +1,6 @@
 {
     "blockAtlas": "https://iili.io/JUyy6tp.png",
-
+    "blockAtlas": "https://iili.io/H8DQcBt.png",
     "skyBoxes": {
         "default": {
             "type": "custom",
