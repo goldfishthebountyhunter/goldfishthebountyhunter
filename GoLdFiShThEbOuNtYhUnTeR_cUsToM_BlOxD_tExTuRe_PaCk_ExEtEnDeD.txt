@@ -1,6 +1,4 @@
-
 {
-
   "comment": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/49b71e75658023819bf56b4858613edc7927a4bc/goldfishthebountyhunter_bloxd_textures_collection/16x4256_AURTHER%20-%20Imgur.png",
   "comment": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/49b71e75658023819bf56b4858613edc7927a4bc/goldfishthebountyhunter_bloxd_textures_collection/16x4256_MEME%20-%20Imgur.png",
   "comment": "https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/49b71e75658023819bf56b4858613edc7927a4bc/goldfishthebountyhunter_bloxd_textures_collection/16x4256_ORES%20-%20Imgur.png",
