@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://i.pinimg.com/originals/4f/0b/a8/4f0ba8810e0e0d5489dc8ba8ad09f0ff.gif" alt="subscribe gif" width="460" height="345">
+<img src="https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/main/GoLdFiShThEbOuNtYhUnTeR_cUsToM_wAlLpApEr.png">
 <!--
 **goldfishthebountyhunter/goldfishthebountyhunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
