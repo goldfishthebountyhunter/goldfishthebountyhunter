@@ -3,12 +3,12 @@
 	"skyBoxes": {
 		"default": {
 			"type": "custom",
-			"nx": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/49b71e75658023819bf56b4858613edc7927a4bc/NX_goldfishthebountyhunter.png",
-			"ny": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/49b71e75658023819bf56b4858613edc7927a4bc/NY_goldfishthebountyhunter.png",
-			"nz": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/49b71e75658023819bf56b4858613edc7927a4bc/NZ_goldfishthebountyhunter.png",
-			"px": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/49b71e75658023819bf56b4858613edc7927a4bc/PX_goldfishthebountyhunter.png",
-			"py": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/49b71e75658023819bf56b4858613edc7927a4bc/PY_goldfishthebountyhunter.png",
-			"pz": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/49b71e75658023819bf56b4858613edc7927a4bc/PZ_goldfishthebountyhunter.png"
+			"nx": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/main/goldfishthebountyhunter_bloxd_textures_collection/goldfishthebountyhunter_custom_skybox/nxNX_goldfishthebountyhunter_skybox.png",
+			"ny": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/main/goldfishthebountyhunter_bloxd_textures_collection/goldfishthebountyhunter_custom_skybox/nyNY_goldfishthebountyhunter_skybox.png",
+			"nz": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/main/goldfishthebountyhunter_bloxd_textures_collection/goldfishthebountyhunter_custom_skybox/nzNZ_goldfishthebountyhunter_skybox.png",
+			"px": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/main/goldfishthebountyhunter_bloxd_textures_collection/goldfishthebountyhunter_custom_skybox/pxPX_goldfishthebountyhunter_skybox.png",
+			"py": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/main/goldfishthebountyhunter_bloxd_textures_collection/goldfishthebountyhunter_custom_skybox/pyPY_goldfishthebountyhunter_skybox.png",
+			"pz": "https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/main/goldfishthebountyhunter_bloxd_textures_collection/goldfishthebountyhunter_custom_skybox/pzPZ_goldfishthebountyhunter_skybox.png"
 		}
 	}
 }
