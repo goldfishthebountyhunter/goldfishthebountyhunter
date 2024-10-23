@@ -28,7 +28,7 @@
 <!--- <img src="https://cdn.glitch.me/a68a53e1-647b-40a5-b0d1-008ff3d06667%2F72df0f943d1ad1d9-cute-cartoon-gif-on-gifer-by-buzanin.gif" height="500" width="500"> --->
 <!--- <img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/9a5bc6d3fe289a346c4313f96bbed9a5f6718d8a/GoLdFiShThEbOuNtYhUnTeR_sErVeR2.png"> --->
 
-<img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/e27ce8ba3a4c3851378e7e161ed9e4b1cee6aa5c/gftb_github_asset_1.png" height="600" width="800">
+<img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/e27ce8ba3a4c3851378e7e161ed9e4b1cee6aa5c/gftb_github_asset_1.png" height="400" width="600">
 
 <!--
 <img src="https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/main/GoLdFiShThEbOuNtYhUnTeR_cUsToM_wAlLpApEr.png">
