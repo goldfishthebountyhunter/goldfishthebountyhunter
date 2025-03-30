@@ -1,3 +1,5 @@
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=goldfishthebountyhunter&utm_content=line">
+
 ## 🙈🩵🍌
 <div>
   <ul>
@@ -24,6 +26,12 @@
     </li>
   </ul>
 </div>
+  <img
+    src="https://render.gitanimals.org/lines/goldfishthebountyhunter"
+    width="600"
+    height="300"
+  />
+</a>
 <!-- <img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/0808f7b29f4a4f97a11c635b19b7fa3571d242b5/GoLdFiShThEbOuNtYhUnTeR_sErVeR.gif" height="500" width="900"> --->
 <!--- <img src="https://cdn.glitch.me/a68a53e1-647b-40a5-b0d1-008ff3d06667%2F72df0f943d1ad1d9-cute-cartoon-gif-on-gifer-by-buzanin.gif" height="500" width="500"> --->
 <!--- <img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/9a5bc6d3fe289a346c4313f96bbed9a5f6718d8a/GoLdFiShThEbOuNtYhUnTeR_sErVeR2.png"> --->
@@ -48,3 +56,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  
