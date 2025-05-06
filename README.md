@@ -41,7 +41,7 @@
 
 <!--- <img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/bf3a78c1baf77fc47adffb378a2ca75e6339a949/gftb_github_asset_3.gif" height="100" width="100"><img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/bf3a78c1baf77fc47adffb378a2ca75e6339a949/gftb_github_asset_3.gif" height="100" width="100"><img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/bf3a78c1baf77fc47adffb378a2ca75e6339a949/gftb_github_asset_3.gif" height="100" width="100"> --->
 <!--- <br><img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter_main-repo-backup/blob/ae33780773e118ceb532d6dc5d536723f9efa6ff/Screenshot%20(52).png"> --->
-<br><img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/0226231adbc929d8315ec1f9abd604660dcaa20a/gftb_github_asset_6.png">
+<br><img src="https://github.com/goldfishthebountyhunter/goldfishthebountyhunter/blob/9c24441c5bab0184204361b2b26888144a3d03d7/gftb_github_asset_7.png">
 <!--
 <img src="https://raw.githubusercontent.com/goldfishthebountyhunter/goldfishthebountyhunter/main/GoLdFiShThEbOuNtYhUnTeR_cUsToM_wAlLpApEr.png">
 **goldfishthebountyhunter/goldfishthebountyhunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
